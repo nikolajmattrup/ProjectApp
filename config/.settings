@@ -1,0 +1,19 @@
+{
+    "username": "nikolaj.mattrup@developer.com", 
+    "environment": "production", 
+    "project_name": "ProjectApp", 
+    "workspace": "C:\\Users\\Nikolaj.Mattrup\\Documents\\MySalesforceProjects", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "BURN6WNDO8KVSDD4J77YKH56M6WJ82WS", 
+    "metadata_container": "1dc24000000DvxDAAS", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
